@@ -1,5 +1,5 @@
 # 🚪 Welcome to my github!
-🎈 I’m currently learning C++<br><br>📫 Contact: fr3klessterm (discord)<br>
+🎈 I’m currently mastering LUA<br><br>📫 Contact: fr3klessterm (discord)<br>
 ![](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 # 💻 Skills:
