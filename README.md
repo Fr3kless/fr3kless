@@ -1,6 +1,6 @@
 # 🚪 Welcome to my github!
 
-Web Developer | Script Developer | Graphics Designer
+Script Developer | Graphics and UI Designer
 
 # 💻 Skills:
 
