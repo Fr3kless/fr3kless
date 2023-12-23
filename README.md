@@ -13,5 +13,5 @@ Script Developer | Graphics and UI Designer
 
 # 🔊 Spotify (recently played)
 <center>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wyjxciyxhwtaza5lj3hsfcnie4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wyjxciyxhwtaza5lj3hsfcnie4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wyjxciyxhwtaza5lj3hsfcnie4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wyjxciyxhwtaza5lj3hsfcnie4&redirect=true)
 </center>
