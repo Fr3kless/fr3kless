@@ -12,4 +12,4 @@ Script Developer | Graphics and UI Designer
 ![Visitor Count](https://profile-counter.glitch.me/Fr3kless/count.svg) 
 
 # 🔊 Spotify (recently played)
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wyjxciyxhwtaza5lj3hsfcnie4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wyjxciyxhwtaza5lj3hsfcnie4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]
+https://spotify-github-profile.vercel.app/api/view.svg?uid=31wyjxciyxhwtaza5lj3hsfcnie4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wyjxciyxhwtaza5lj3hsfcnie4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
