@@ -13,6 +13,6 @@ Script Developer | Graphics and UI Designer
 # 👁️ Github Visits (counting from 23.12.2023)
 ![Visitor Count](https://profile-counter.glitch.me/Fr3kless/count.svg) 
 
-***
+# 🔈Spotify
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wyjxciyxhwtaza5lj3hsfcnie4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
 
