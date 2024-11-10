@@ -9,7 +9,7 @@ Script Developer | Graphics and UI/UX Designer
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="c++" /></a>
-<b>(Learning C++ & JS)
+<b><Br>(Learning C++ & JS)</b>
 
 # 👁️ Github Visits (counting from 24.12.2023)
 ![Visitor Count](https://profile-counter.glitch.me/Fr3kless/count.svg) 
