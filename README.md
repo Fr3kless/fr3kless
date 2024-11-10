@@ -16,4 +16,4 @@ Script Developer | Graphics and UI/UX Designer
 
 # 🔊 Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31exwcvea4pgiannk2btevckoijm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31exwcvea4pgiannk2btevckoijm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31exwcvea4pgiannk2btevckoijm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31exwcvea4pgiannk2btevckoijm&redirect=true)
